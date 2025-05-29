@@ -30,3 +30,6 @@ For the multimodal dataset GreenEarthNet, the eval.py file needs to be executed 
 python eval.py  "path to Target test set address" "Predicted address" "Score saving address"
 # Example:
 python eval.py E:\dataset\greenearthnet\ood-t_chopped E:\writing\RDformer\experiment\greenearthnet\model_score\DynamicNet\seed=27\ood\ood-t E:\writing\RDformer\experiment\greenearthnet\model_score\DynamicNet\seed=27
+
+# Data download
+Please to https://github.com/vitusbenson/greenearthnet about GreenEarthNet data download
